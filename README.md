@@ -34,9 +34,9 @@ A basic raytracer built from scratch — no external rendering libraries.
 
 ---
 
-### 🌐 [Simple-Network](https://github.com/JosepRDA/Simple-Network)
+### 🌐 [chat-application](https://github.com/JosepRDA/chat-application)
 Bidirectional TCP client/server over localhost — both sides read and write simultaneously using threads.  
-**Stack:** C, POSIX sockets, pthreads
+**Stack:** C, POSIX sockets, threads, networking
 
 ---
 
@@ -58,4 +58,4 @@ Frozen snapshot of the esp-idf template at a stable stage for personal embedded 
 
 - OS: Linux (CachyOS + Arch)
 - Editor: (Neovim and VS Code)
-- Hardware: (AVR mcus, Xtensa esp32 architecture)
+- Hardware: (AVR mcus, Xtensa architecture, good knowledge of x86 intrinsics, currently looking up to learning CUDA)
