@@ -21,7 +21,7 @@
 
 ## Projects
 
-### 🔧 [avr-rtos](https://github.com/JosepRDA) *(in progress)*
+### 🔧 [avr-rtos](https://github.com/JosepRDA/avrtos) *(in progress)*
 A minimal preemptive RTOS for AVR 8-bit microcontrollers, written in C++ and AVR Assembly.  
 Implements a cooperative + preemptive scheduler, context switching via timer interrupts, and a basic task API.  
 **Stack:** C, AVR Assembly, avr-gcc, QEMU (simavr)
