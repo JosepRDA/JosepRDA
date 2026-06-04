@@ -32,7 +32,6 @@ Implements a cooperative + preemptive scheduler, context switching via timer int
 A basic raytracer built from scratch — no external rendering libraries.
 **Stack:** Rust, linear algebra from scratch
 
-
 ---
 
 ### 🌐 [Simple-Network](https://github.com/JosepRDA/Simple-Network)
@@ -41,9 +40,9 @@ Bidirectional TCP client/server over localhost — both sides read and write sim
 
 ---
 
-### 🦀 ESP-IDF Template Fork
-Frozen snapshot of the esp-idf Rust template at a stable stage for personal embedded Rust experiments.  
-**Stack:** Rust, CMake, ESP-IDF
+### 🦾 ESP-IDF Template Fork
+Frozen snapshot of the esp-idf template at a stable stage for personal embedded experiments.  
+**Stack:** C, C++, CMake, ESP-IDF
 
 ---
 
