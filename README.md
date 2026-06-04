@@ -1,4 +1,4 @@
-# José Paulo Araújo
+# José Araújo
 
 > Embedded systems developer, systems programmer, and CS student.  
 > Currently building a bare-metal RTOS for AVR 8-bit from scratch.
