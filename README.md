@@ -8,14 +8,14 @@
 ## What I work with
 
 **Core stack**
-- **Languages:** C, C++, Rust, Assembly (AVR, x86)
-- **Domains:** Embedded systems, RTOS, OS internals, computer architecture, electronics
+- **Languages:** C, C++, Rust, Assembly (x86)
+- **Domains:** Embedded systems, OS internals, computer architecture, electronics
 - **Graphics:** OpenGL, WebGPU (learning Vulkan next)
-- **Systems:** Linux (compiled my own kernel), systemd internals, QEMU/KVM, Unix tooling (specially GNU binutils)
+- **Systems:** Linux (compiled my own kernel), systemd internals, QEMU/KVM, Unix tooling
 
 **Secondary**
 - Go, Python, Java, C# — enough to get things done
-- OpenCV (exploring), basic ML (regression models)
+- Matplotlib (exploring), basic ML (regression models)
 
 ---
 
@@ -28,21 +28,9 @@ Implements a cooperative + preemptive scheduler, context switching via timer int
 
 ---
 
-### 🎮 rust-tracer *(Rust)*
-A basic raytracer built from scratch — no external rendering libraries.
-**Stack:** Rust, linear algebra from scratch
-
----
-
 ### 🌐 [chat-application](https://github.com/JosepRDA/chat-application)
 Bidirectional TCP client/server over localhost — both sides read and write simultaneously using threads.  
 **Stack:** C, POSIX sockets, threads, networking
-
----
-
-### 🦾 ESP-IDF Template Fork
-Frozen snapshot of the esp-idf template at a stable stage for personal embedded experiments.  
-**Stack:** C, C++, CMake, ESP-IDF
 
 ---
 
